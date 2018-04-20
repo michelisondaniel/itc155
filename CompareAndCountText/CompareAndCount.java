@@ -11,7 +11,7 @@ public class CompareAndCount {
 		
 		// welcome message
 		System.out.println("This program will compare two text files\nand see which common words\nthey share throughout each text");
-		System.out.println("We will be using the texts of Hamlet and Romeo and Juliet");
+		System.out.println("We will be using the texts of Hamlet and Moby Dick");
 		
 		// recieve input from scanners
 		Scanner sc = new Scanner(new File("hamlet.txt"));
