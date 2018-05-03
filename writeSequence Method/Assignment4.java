@@ -1,6 +1,7 @@
 
 // https://github.com/MingoLink/ITC155-Data-Structures-Java-/blob/master/Assignment4.java
 // copied from above link
+// then modified to get an understanding of what took place
 
 public class Assignment4 {
 
