@@ -57,7 +57,7 @@ public class Main {
 	public static int digitMatch(int n1, int n2) {
 		
 		
-		// ya got me good i don't know.... where to go from here
+		// ya got us good i don't know.... where to go from here
 		final Set<Integer> set = new HashSet<Integer>();
 		final Set<Integer> set1 = new HashSet<Integer>();
 		
